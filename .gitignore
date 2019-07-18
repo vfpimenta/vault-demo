@@ -3,3 +3,4 @@
 /.blackbox/secring.gpg
 /databases/passwords.txt
 /databases/passwords_prd.txt
+/ssh/demo.pem
